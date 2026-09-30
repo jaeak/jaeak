@@ -1,8 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Jack!
 
-<!--
-**jaeak/jaeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year student studying **Systems Engineering**
 
-Here are some ideas to get you started:
+### Languages & Tools 
 
-Hi
+* **Languages:** Python, C++, VHDL, MATLAB, Bash
+* **Frameworks/Libs:** NumPy, Pandas, SymPy, ROS 2
+* **Tools & Hardware:** SolidWorks, VSCode, Linux, Quartus Prime, ModelSim, Docker, Blender, Raspberry Pi
