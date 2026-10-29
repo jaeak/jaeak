@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Jack!
 
 I'm a second-year student studying **Systems Engineering**
+My primary focus is **Embedded Systems & Edge AI**
 
 ### Languages & Tools 
 
