@@ -8,4 +8,4 @@ My primary focus is **Embedded Systems & Edge AI**
 
 - **Languages:** C++, Python, VHDL, Bash
 - **Frameworks/Libs:** NumPy, Pandas, SymPy, ROS 2
-- **Tools & Hardware:** SolidWorks, VSCode, Linux, Quartus Prime, ModelSim, Raspberry Pi
+- **Tools & Hardware:** SolidWorks, Linux, Git, Quartus Prime, ModelSim, Raspberry Pi
